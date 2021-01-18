@@ -6,27 +6,27 @@
 header{
   height:100px;
   width: 100%;
-  background-color:#aaaaff;
+  background-color:#c2d6d6;
 }
 nav{
   height:25px;
   width:100%;
-  background-color: #ffafff;
+  background-color: #75a3a3;
 }
 main{
   height:400px;
   width:70%;
-  background-color: #ffffaf;
+  background-color: #e6ccb3;
 }
 aside{
   height:400px;
   width:30%;
-  background-color: #ffaaaf;
+  background-color: #f9f2ec;
 }
 footer{
   height:25px;
   width:100%;
-  background-color: #cfafaf;
+  background-color: #c2d6d6;
 }
 #container{
   display:flex;
