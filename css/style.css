@@ -32,12 +32,12 @@ main{
 aside{
   height:80vh;
   width:30%;
-  background-color: #bfbfbf;
+  background-color: #d9d9d9d;
 }
 footer{
   height:5vh;
   width:100%;
-  background-color:black;
+  background-color:#d9d9d9;
 }
 #container{
   display:flex;
